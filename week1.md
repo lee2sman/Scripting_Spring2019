@@ -60,22 +60,9 @@
   * CSS for placement
     * We use CSS for *style*. Positioning is specified in CSS.
 
-### CSS units and box model tutorial
-* tutorial - [Inline Block](http://dustwell.com/div-span-inline-block.html)
-* Do [this](http://www.barelyfitz.com/screencast/html-training/css/positioning/) CSS positioning tutorial
 
 # Warm-up
 * Building a Text Editor in the browser - [starter code](https://gist.github.com/lee2sman/0c3fe0e05ed6f340102a6899ea04221e)
-
-### Javascript
-  * For *Interaction*
-  * Javascript was created by Brendan Eich in 1995 over a rushed time period for Netscape/Mozilla in order to compete with other web browsers (Internet Explorer) that were developing a competing language for interactive content.
-  * Javascript as a name was selected because the Java language was popular at the time. They are not otherwise related.
-  * Over time Javascript was adopted by all browsers though each browser/engine may have its own implementation. Standards for JavaScript are maintained by an international committee and codified as EcmaScript.
-  * Javascript is a multiparadigm language, meaning there are many approaches to coding with it.
-  * Javascript is *weakly* typed, meaning that the language does not have built in safety checks for memory and variable types
-  * Javascript as a language has evolved significantly over time. New language features have been implemented and adopted at varying times by different browsers. Ecmascript2015 aka ES6 brought significant changes to syntax for classes, types, functions and loops, among other changes.
-  * Javascript includes support for working with text, arrays, dates, regular expressions, and basic manipulation of the DOM.
 
 ## Working with the DOM
 
@@ -97,17 +84,12 @@ The following are supplemental to what we go over in class. Much of the same inf
 
 # Homework
 
-+ Read [What Happens When Type a URL in the browser?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
-+ Read these JavaScript tutorials
-  - [Where To](https://www.w3schools.com/Js/js_whereto.asp) put Javascript
-  - [Output](https://www.w3schools.com/Js/js_output.asp)
-  - JS [Syntax](https://www.w3schools.com/Js/js_syntax.asp)
-  - [Arithmetic](https://www.w3schools.com/Js/js_arithmetic.asp) and [Assignment](https://www.w3schools.com/Js/js_assignment.asp)
-  - [Data types](https://www.w3schools.com/Js/js_datatypes.asp)
-  - [Functions](https://www.w3schools.com/Js/js_functions.asp)
-  - [Objects](https://www.w3schools.com/Js/js_objects.asp)
-  - [For Loops](https://www.w3schools.com/Js/js_loop_for.asp)
+- Read [What Happens When Type a URL in the browser?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
+- Do these tutorials on CSS units and box model tutorial
+  * tutorial - [Inline Block](http://dustwell.com/div-span-inline-block.html)
+  * Do [this](http://www.barelyfitz.com/screencast/html-training/css/positioning/) CSS positioning tutorial
+
 + Read the [DOM tutorial](https://www.w3schools.com/Js/js_htmldom.asp) entire section down to Events page
 + Due next Wednesday by noon
-	+ Make a CSS page for the class website
+	+ Make a **GOOD** CSS page for the class website
   + Be able to explain how the DOM works
