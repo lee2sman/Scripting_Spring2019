@@ -77,10 +77,6 @@
 
 # Homework
 
-## Tutorials
-The following are supplemental to what we go over in class. Much of the same information will be covered, but some of it will be new. I encourage you to review these videos on your own time.
-
-- Intro to jQuery
 
 # Homework
 
