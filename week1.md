@@ -85,9 +85,11 @@ The following are supplemental to what we go over in class. Much of the same inf
 # Homework
 
 - Read [What Happens When Type a URL in the browser?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
-- Do these tutorials on CSS units and box model tutorial
-  * tutorial - [Inline Block](http://dustwell.com/div-span-inline-block.html)
-  * Do [this](http://www.barelyfitz.com/screencast/html-training/css/positioning/) CSS positioning tutorial
+
+- Do these HTML and CSS Tutorials
+  - Review w3schools HTML [tutorial](https://www.w3schools.com/html/)
+  - Review w3schools CSS [tutorials](https://www.w3schools.com/css/default.asp)
+  - [Layout tutorial](http://learnlayout.com)
 
 + Read the [DOM tutorial](https://www.w3schools.com/Js/js_htmldom.asp) entire section down to Events page
 + Due next Wednesday by noon
