@@ -3,12 +3,14 @@
 Instructor: Lee Tusman  
 Pronouns: he/him  
 Contact: Lee.Tusman@purchase.edu  
-Course: Wed  
+Course: CRN 64657 / MAT 3146 
 Classroom: Library 1004B 3pm - 6:40pm  
-Office Hours: TBA  
+Office Hours: Monday afternoons or by appointment
 TAs:
 - Amanda Tsang, amanda.tsang@purchase.edu  
+  - at Einstein Corner (Nat Sci 3046): Tue 12pm - 3pm; Fri 12:30pm - 2:30pm  
 - Takashi Mukoda, takashi.mukoda@purchase.edu  
+  - available by appointment; send an email!
 
 
 # Course Description
