@@ -535,5 +535,5 @@ When finished, zip up your folder and submit it to Moodle. On a Mac, click on th
 ##### Resources for Mobile-Responsive Design
 
 * [Designing For The Best Experience For All Users](https://www.w3schools.com/Css/css_rwd_intro.asp)
-* [Creating your own responsive design with simple CSS](https://www.w3schools.com/Css/css_responsive_intro.asp)
+* [CSS Media Queries](https://www.w3schools.com/Css/css_rwd_mediaqueries.asp)
 * [Viewport Units](https://css-tricks.com/fun-viewport-units/)
