@@ -17,7 +17,7 @@
    - what is jQuery?
    - intro to selectors
    - intro to events
-
+8. Homework
 
 # File System / File paths
 
