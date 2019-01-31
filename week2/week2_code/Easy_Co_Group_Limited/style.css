@@ -1,0 +1,138 @@
+html, body, .container {
+  height: 100%;
+}
+
+h1 {
+  color: #efecec;
+  background-color: grey;
+  font-size: 2.5rem;
+  line-height: 2.7rem;
+  margin-top: 20px;
+  display: inline-block;
+  opacity: 0.6;
+}
+
+a {
+  color: #ffffff;
+}
+
+p {
+  margin: 0 0 15px 0;
+  vertical-align: middle;
+  text-align: center;
+}
+
+blockquote {
+  display: block;
+  max-width: 480px;
+  margin: 15px auto;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.3); /* this is an advanced trick in order to make a semi-transparent background */
+  color: #e1e1e1;
+  font-family: "Cantarell", serif;
+  font-size: 22px;
+  line-height: 28px;
+}
+
+/* Layout */
+
+.navbar {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 40px;
+  z-index: 9999;
+  position: fixed;
+}
+
+.navbar a {
+  display: inline-block;
+  border: 1px solid #fff;
+  font-size: 14px;
+  line-height: 24px;
+  border-radius: 3px;
+  padding: 2px 15px;
+  text-decoration: none;
+  margin-top: 5px;
+}
+
+.container {
+  display: table;
+  padding-top: 80px;
+  width: 100%;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px;
+  color: #cafaea;
+  background-color: grey;
+  border: 3px solid #cafaea;
+  border-radius: 3px; /* rounds the corners */
+  line-height: normal;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#hiddenText {
+  display: none;
+}
+
+/* on a phone (max width 340pixels) load these styles */
+/* note these override the above style settings */
+
+@media only screen and (max-width: 340px) {
+
+  .container {
+    position: relative;
+    display: block;
+    float: left;
+    vertical-align: baseline;
+    margin: 0 auto;
+    padding: 80px 0 0 0;
+  }
+
+  #hiddenText {
+    float: left;
+    margin-right: 10px;
+
+  }
+
+  body h1 {
+    font-size: 18px;
+    line-height: 23px;
+  }
+
+  .content, blockquote {
+    display: inline;
+    margin: 0 auto;
+    padding-top: 80px;
+    vertical-align: baseline;
+  }
+
+  blockquote {
+    width: 150px;
+    margin: 15px auto;
+    font-size: 16px;
+    line-height: 21px;
+    background-color: transparent;
+  }
+
+  .sub-title {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  .button p {
+    max-width: 150px;
+    margin: 0 auto;
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  html, body, .container {
+    height: auto;
+  }
+}

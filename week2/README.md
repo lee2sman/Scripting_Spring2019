@@ -31,7 +31,7 @@ Inside your root directory it is considered best practice to place a ```index.ht
 
 In addition, you should have an external css page and javascript files here, if it's a simple site. For a more complex site, you may have a folder of css and a folder of javascript. You may also have a folder of images or other assets
 
-![basic file structure example](file_structure_example.png)  
+![basic file structure example](images/file_structure_example.png)  
 Example basic file structure
 
 With the above basic file structure your index.html could look like this:
@@ -59,13 +59,13 @@ If you have a website with a number of pages, you may have tried adding more htm
 
 View of the bio bio folder:
 
-![Example file system for a larger site](bio_subdirectory.png)  
+![Example file system for a larger site](images/bio_subdirectory.png)  
 The bio directory has its own index.html page
 
 
 View of the ```js``` javascript file folder:
 
-![Example file system for larger site showing js folder](js_subdirectory.png)  
+![Example file system for larger site showing js folder](images/js_subdirectory.png)  
 You may have multiple files in a js directory
 
 #### Example
@@ -173,21 +173,21 @@ Technically, Javascript is a scripting language in a host environment, which mea
 #### Accessing the browser console
 
 ###### Chrome console
-![accessing the browser console - Chrome](chrome-console.png)  
+![accessing the browser console - Chrome](images/chrome-console.png)  
 Accessing the console in Chrome
 
 ###### Firefox console
-![accessing the browser console - Firefox](firefox-console.png)  
+![accessing the browser console - Firefox](images/firefox-console.png)  
 
 ###### Safari console
 
 In Safari, you must first go to File > Preferences and choose the Advanced tab and turn on the Developer tools. This will add a Developer Menu.
 
-![accessing Developer Tools in Safari](safari-developer-tools.png)
+![accessing Developer Tools in Safari](images/safari-developer-tools.png)
 
 Now you can access the console.
 
-![accessing the console in Safari](safari-console.png)
+![accessing the console in Safari](images/safari-console.png)
 
 ### Hello World in Javascript
 
@@ -430,7 +430,7 @@ Their properties can be changed.
 We have different methods for accessing these.  
 We can have our HTML change based off specific events (a page opening, resizing, mouse pressed, etc.)  
 
-![The DOM](DOM.gif)
+![The DOM](images/DOM.gif)
 
 The DOM works like a tree, with nodes branching off that below. We can work on these nodes, remove them, add to them, change their properties, etc.
 
@@ -466,7 +466,7 @@ jQuery is the most famous Javascript library and at one point could be found on 
 Then add a link to it in your html index document. Then add your own jQuery code after that.
 
 
-### Use a CDN
+### or use a CDN
 
 A CDN means Content Delivery Network. Since so much of the web uses jQuery, there are companies and foundations that provide free links to jQuery online. Rather than having folks download jQuery from each website that uses it, a website developer can instead link to one of these centrally provided copies of jQuery online. That way, when someone visits your webpage, they will already have a copy of jQuery cached in their browser, and so your page will load faster.
 
@@ -499,13 +499,14 @@ See slides.
 
 ## Update your class website CSS stylesheet
 
+- Read [A Five Minute Guide to Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 - Change your previous CSS stylesheet. Make it better and more interesting. Submit it.
 - Keep in mind you know how to use: CSS animations, gradients, google fonts.
 
 ## Do Tutorials
 
-- w3schools [jQuery tutorial](https://www.w3schools.com/jquery/)
-- Read [Javascript Basics by JQuery Fundamentals](http://jqfundamentals.com/chapter/javascript-basics) and write down any questions you have in your notebook. Bring the notebook to our next class.
+- Read [Javascript Basics by JQuery Fundamentals](http://jqfundamentals.com/chapter/javascript-basics) on values, variables and functions. You can read more if you wan to. Write down any questions you have in your notebook. Bring the notebook to our next class.
+- Do the w3schools [jQuery tutorial](https://www.w3schools.com/jquery/)
   - Be sure to really understand the sections:
   - [jQuery syntax](https://www.w3schools.com/jquery/jquery_syntax.asp)
   - [jQuery selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
@@ -519,6 +520,8 @@ Create a fake corporate webpage that appears to be about one thing. Use generic 
 
 Use an event (clicking a button, a timer, or some other method) to trigger a change in the website that shows a subversive site. This could be a secret hacker ring, aliens, another civilization, or some group attempting to bring that corporation down, or perhaps show the company's actually true intentions. Use your imagination to make this wild and far out. You may want to plan and sketch this first in a notebook. You may struggle turning the idea into your head into reality via your code. Write down problems you can't solve in your notebook. Look for solutions. Take a break. Try talking to a TA. Or contact me.
 
+An example is shown in the week2_code folder called Easy_Co-Group_Limited.
+
 # Method
 
 1. Decide your fake corporate entity. Pick a name. Pick a google font to use, or several.
@@ -526,3 +529,11 @@ Use an event (clicking a button, a timer, or some other method) to trigger a cha
 3. Set up your website in a directory. You need your index.html, style.css, a link to jQuery and your own jquery script. And probably a folder of images. You can have more pages and other options but this is probably the minimum to get started. You don't need to use my starter code. It's just there to point out one example to get started.
 
 When finished, zip up your folder and submit it to Moodle. On a Mac, click on the folder, and choose File > Compress.
+
+### Optional readings
+
+##### Resources for Mobile-Responsive Design
+
+* [Designing For The Best Experience For All Users](https://www.w3schools.com/Css/css_rwd_intro.asp)
+* [Creating your own responsive design with simple CSS](https://www.w3schools.com/Css/css_responsive_intro.asp)
+* [Viewport Units](https://css-tricks.com/fun-viewport-units/)
