@@ -497,18 +497,32 @@ See slides.
 
 # Homework
 
+## Update your class website CSS stylesheet
+
+- Change your previous CSS stylesheet. Make it better and more interesting. Submit it.
+- Keep in mind you know how to use: CSS animations, gradients, google fonts.
+
 ## Do Tutorials
 
-- Javascript Fundamentals by JQuery Fundamentals
-http://jqfundamentals.com/chapter/javascript-basics
-- The excellent overview, [A Re-Introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-- Working with [DOM events in Javascript](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/) without libraries using Javascript event listeners
-- [Video tutoral](https://javascriptforwp.com/intro-to-events/) on Events in the DOM with JavaScript
+- w3schools [jQuery tutorial](https://www.w3schools.com/jquery/)
+- Read [Javascript Basics by JQuery Fundamentals](http://jqfundamentals.com/chapter/javascript-basics) and write down any questions you have in your notebook. Bring the notebook to our next class.
+  - Be sure to really understand the sections:
+  - [jQuery syntax](https://www.w3schools.com/jquery/jquery_syntax.asp)
+  - [jQuery selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
+  - [jQuery events](https://www.w3schools.com/jquery/jquery_events.asp)
 
-## Create a jQuery site
+## Create a bizarre/subversive jQuery site
 
 Watch [They Live](https://www.youtube.com/watch?v=JI8AMRbqY6w)
 
 Create a fake corporate webpage that appears to be about one thing. Use generic language, stock images, etc.
 
-Use an event (clicking a button, a timer, or some other method) to trigger a change in the website that shows a subversive site. This could be a secret hacker ring, aliens, another civilization, or some group attempting to bring that corporation down, or perhaps show the company's actually true intentions.
+Use an event (clicking a button, a timer, or some other method) to trigger a change in the website that shows a subversive site. This could be a secret hacker ring, aliens, another civilization, or some group attempting to bring that corporation down, or perhaps show the company's actually true intentions. Use your imagination to make this wild and far out. You may want to plan and sketch this first in a notebook. You may struggle turning the idea into your head into reality via your code. Write down problems you can't solve in your notebook. Look for solutions. Take a break. Try talking to a TA. Or contact me.
+
+# Method
+
+1. Decide your fake corporate entity. Pick a name. Pick a google font to use, or several.
+2. Go to [Pexels](https://www.pexels.com/public-domain-images/) public domain images and search for an image (or multiple images to use). Download them.
+3. Set up your website in a directory. You need your index.html, style.css, a link to jQuery and your own jquery script. And probably a folder of images. You can have more pages and other options but this is probably the minimum to get started. You don't need to use my starter code. It's just there to point out one example to get started.
+
+When finished, zip up your folder and submit it to Moodle. On a Mac, click on the folder, and choose File > Compress.
