@@ -1,0 +1,115 @@
+body{
+
+  padding:8%;
+  margin: 40px 40px 50px 40px;
+  width:60%;
+  background-color: #e0ecff;
+
+}
+
+h1{
+  font-family:Verdana;
+  font-size:35px;
+  color:purple;
+  height: 55px;
+  letter-spacing:1px;
+  text-shadow: 2px 2px white;
+
+  background-color: #e0fff3;
+  position: relative;
+  -webkit-animation-name: circleMotion; 
+  -webkit-animation-duration: 5s; 
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+
+  display:block;
+}
+
+h2 {
+  font-family:Helvetica;
+  font-size:30px;
+  color:purple;
+  background-color:#ffe0e6;
+  background-image: linear-gradient(#ffe0e6, #fffce0);
+  display:inline-block;
+
+}
+
+h3{
+  font-size:25px;
+  font-family:Arial;
+  background-color:#ffe0e6;
+  text-shadow: 2px 2px white;
+  display:block;
+
+}
+
+h4{
+  font-family:Arial;
+  font-size:18px;
+  background-color:#ffe0e6;
+  text-shadow: 2px 2px white;
+  display:block;
+}
+
+p {
+  font-family:Helvetica;
+  margin: auto;  
+  padding: 25px;
+  opacity: 0.9;
+  background-color:#fffce0;
+  box-shadow: 10px 10px 5px grey;
+  display:block;
+
+  -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+  transition: width 2s;
+}
+
+p:hover{
+  width:600px;
+}
+
+li{
+  font-family:Helvetica;
+  margin: auto;  
+  padding: 20px;
+  opacity: 0.9;
+  padding: 15px;
+  background-color: #fffce0;
+  box-shadow: 10px 10px 10px #c2c2c2;
+  display:block;
+
+}
+
+ul {
+  font-family:Helvetica;
+  margin: auto;  
+  padding: 20px;
+  opacity: 0.9;
+  background-color: #fffce0;
+  box-shadow: 5px 5px 5px #c2c2c2;
+  display:block;
+}
+
+/* W3 SCHOOLS*/
+@-webkit-keyframes circleMotion {
+  0%   {background-color:#e0fff3; left:0px; top:0px;}
+  25%  {background-color:#e0fff3; left:200px; top:0px;}
+  50%  {background-color:#e0fff3; left:200px; top:200px;}
+  75%  {background-color:#e9e0ff; left:0px; top:200px;}
+  100% {background-color:#e9e0ff; left:0px; top:0px;}
+}
+@keyframes circleMotion {
+  0%   {background-color:#e0fff3; left:0px; top:0px;}
+  25%  {background-color:#e0fff3; left:200px; top:0px;}
+  50%  {background-color:#e0fff3; left:200px; top:200px;}
+  75%  {background-color:#e9e0ff; left:0px; top:200px;}
+  100% {background-color:#e9e0ff; left:0px; top:0px;}
+}
+
+a {
+  color:#9cb8e6;
+}
+a:hover {
+  color:#ffe0e6;
+}

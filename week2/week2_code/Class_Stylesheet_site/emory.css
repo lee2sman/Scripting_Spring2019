@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css?family=Martel');
+
+  body {
+        font-size: 1.2rem;
+    font-weight: lighter;
+    background-image: linear-gradient(#480070, #6495ed	, green);
+    padding: 10%;
+    font-family: 'Martel', fantasy;
+  }
+
+  h1 {
+    background-image: radial-gradient(ellipse closest-side, rgb(198, 161, 11, 1), rgb(198, 161, 11, 0));
+    text-align: center;
+    font-weight: bold;
+  }
+
+  h2 {
+    background-image: radial-gradient(ellipse closest-side, rgb(198, 161, 11, 1), rgb(198, 161, 11, 0));
+    text-align: center;
+    font-weight: bold;
+  }
+
+  h3 {
+    background-image: radial-gradient(ellipse closest-side, rgb(198, 161, 11, 1), rgb(198, 161, 11, 0));
+    text-align: center;
+    font-family: inherit;
+    font-weight: normal;
+  }
+  h1:hover{
+    font-style: italic;
+
+    background: linear-gradient(90deg, rgb(198, 161, 11, 1), rgb(255, 0, 0, 0));
+  }
+  h2:hover, h3:hover{
+    font-style: italic;
+  }
+
+  p {
+    margin: 30px;
+    font-family: serif;
+    color: black;
+    line-height: 150%;
+    width: 75%
+  }
+
+  ul {
+    font-family: serif;
+    color: black;
+    line-height: 150%;
+    margin: 20px;
+  }
+
+  a {
+    color: #6d7fc6;
+    background: #f49fea;
+  }
+  a:hover {
+    text-shadow: 2px 6px 10px black;
+    color: black;
+    background: rgb(0,0,0,0);
+  }
+  a:visited {
+    color: grey;
+  }
+
+  @keyframes moveLeft {
+  to {transform: translateX(100px);}
+  }
+
+  @keyframes fadeIn {
+    0%{opacity: 0;
+        transform: translateX(-100px);}
+    60% {opacity: 1;}
+    100% {opacity: 1;
+        }
+  }
+
+  #scripting-for-the-web {
+    background:#000 url(https://thumbs.gfycat.com/RingedSpicyKodiakbear-size_restricted.gif) repeat top center;
+    color: yellow;
+    animation-name: fadeIn;
+    animation-duration: 5s;
+  }
+
+  #course-description {
+    background:#000 url(https://thumbs.gfycat.com/RingedSpicyKodiakbear-size_restricted.gif) repeat top center;
+    color: yellow;
+  }
+
+  #learning-objectives{
+    background:#000 url(https://media0.giphy.com/media/fWojhIDVshJPq/giphy.gif) no-repeat bottom left;
+    background-position: center;
+  }
+
+  #required-texts-and-tools,
+  #field-trip,
+  #university-and-classroom-policies-and-rules,
+  #official-purchase-college-academic-integrity-policy{
+    background:#000 url(https://thumbs.gfycat.com/TenseDopeyAntipodesgreenparakeet-size_restricted.gif);
+  }
+
+  #class-policy-on-collaboration{
+    background: #000 url(https://i.gifer.com/GAjB.gif) top left;
+  }
+
+  #tutoring-support,
+  #homework,
+  #academic-accessibility,
+  #tentative-nature-of-syllabus\.{
+    background: #000 url(https://i.giphy.com/media/T1E5u35uWZDnq/giphy.webp) bottom left;
+    color: #FF4C4C;
+    text-shadow: text-shadow: 4px 6px 20px black;
+    -webkit-text-stroke-color: #590000;
+    -webkit-text-stroke-width: .1px;
+  }
+
+  #classroom-community{
+    background: #000 url(https://i.giphy.com/media/vadsqiBwAM18c/giphy.webp) bottom left;
+    color: #590000;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .001px;
+  }
+
+  #class-method{
+    background: #000 url(https://cdna.artstation.com/p/assets/images/images/006/810/702/original/calvin-simpson-bshots-bark-progression.gif?1501441253) center left;
+    color: #FF4C4C;
+    -webkit-text-stroke-color: #590000;
+    -webkit-text-stroke-width: .1px;
+  }
+
+  #attendance-policy{
+    background: #000 url(https://cdna.artstation.com/p/assets/images/images/006/810/702/original/calvin-simpson-bshots-bark-progression.gif?1501441253) center left;
+    color: #FF4C4C;
+    -webkit-text-stroke-color: #590000;
+    -webkit-text-stroke-width: .1px;
+  }
+
+  #digital-distractions{
+    background: #000 url(https://66.media.tumblr.com/tumblr_m8vo0v8VwS1rqz17ho1_500.gif) center left;
+    color: white;
+  }
+
+  #philosophy{
+    background: #000 url(https://66.media.tumblr.com/tumblr_m8vo0v8VwS1rqz17ho1_500.gif) bottom left;
+    color: white;
+  }
+
+  #requesting-help,
+  #grades,
+  #participation{
+    background: #000 url(https://media.giphy.com/media/Y4vip84hg9BhdNidTR/giphy.gif) bottom left;
+    color: #472401;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .0001px;
+  }
+
+  #resources{
+    background: #000 url(https://media.giphy.com/media/xUA7biAmbpRS5yeajK/giphy.gif) center left;
+  color: #010665;
+  -webkit-text-stroke-color: #307fff;
+  -webkit-text-stroke-width: .001px;
+
+  }
+
+  #books-some-are-available-to-read-online{
+    background: #000 url(https://media.giphy.com/media/147ausGRe6GogM/giphy.gif) top left;
+    color: #472401;
+    text-shadow: text-shadow: 4px 6px 20px white;
+    -webkit-text-stroke-color: green;
+    -webkit-text-stroke-width: .5px;
+  }
+
+  #recommended-websites-for-learning-javascript{
+    background: #000 url(https://media1.giphy.com/media/RmYDSN3KIRatW/giphy.gif) center left;
