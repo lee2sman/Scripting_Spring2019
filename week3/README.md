@@ -224,7 +224,7 @@ $(window).ready(function() {
    setInterval(changeBG, 5000);
    function changeBG() {
      var num = Math.floor(Math.random()*18);
-     $('#background').css('background', 'url("css/style'+num+'.jpg")');
+     $('#background').css('background', 'url("css/style'+num+'.css")');
    }
  });
  ```
