@@ -1,0 +1,8 @@
+body {
+  background-color: yellow;
+  font-size: 2em;
+}
+
+p {
+    background: linear-gradient(white, blue);
+}

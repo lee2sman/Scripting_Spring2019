@@ -1,0 +1,217 @@
+
+body {
+    font-family: courier;
+    font-size: 20px;
+    line-height: 25px;
+    max-width: 38em;
+    margin: auto;
+    color: #424242;
+    padding: 13px;
+    background-image: linear-gradient(to bottom, #686868, #b7b7b7);
+    border-top: 60px solid gray;
+    border-bottom: 60px solid gray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    -webkit-animation: bcolor 5s infinite; /* Safari 4.0 - 8.0 */
+    animation: bcolor 5s infinite;
+}
+
+#scripting-for-the-web {
+  font-family: courier new;
+  -webkit-animation: movetext 30s infinite; /* Chrome, Safari, Opera */
+  animation: movetext 30s infinite;
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+  font-size: 40px;
+  line-height: 80px;
+}
+
+#course-description {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 55px;
+
+}
+
+#learning-objectives {
+  color: white;
+  margin-top: 40px;
+}
+
+#additional-course-goals {
+  color: #cecece;
+}
+
+#required-texts-and-tools {
+  color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#field-trip {
+  color: white;
+  margin-top: 40px;
+  font-size: 30px;
+}
+
+#university-and-classroom-policies-and-rules {
+  color: white;
+  font-size: 30px;
+  margin-top: 40px;
+  line-height: 40px;
+}
+
+#official-purchase-college-academic-integrity-policy {
+  font-family: times new roman;
+  color: #cecece;
+  font-size: 20px;
+  text-align: center;
+}
+
+#class-policy-on-collaboration {
+color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#tutoring-support {
+  color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#homework {
+  color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#academic-accessibility {
+  color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#tentative-nature-of-syllabus {
+color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#classroom-community {
+color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#class-method {
+color: #cecece;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+#attendance-policy {
+color: #cecece;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+#digital-distractions {
+  color: #cecece;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+#philosophy {
+color: #cecece;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+#requesting-help {
+color: #cecece;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+#grades {
+color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#participation {
+color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#resources {
+  color: white;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+#books-some-are-available-to-read-online {
+color: #d8d6d6;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+#recommended-websites-for-learning-javascript {
+  color: #d8d6d6;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+blockquote {
+  font-family: times new roman;
+}
+
+a {
+  color: #cecece;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes movetext {
+  100% {letter-spacing: 10px;}
+}
+
+/* Standard syntax */
+@keyframes movetext {
+  100% {letter-spacing: 10px;}
+}
+
+@-webkit-keyframes bcolor {
+  50% {border-color: white;}
+}
+
+@keyframes bcolor {
+  50% {border-color: white;}
+}
+
+/* The following are added css in case someone is viewing on a tablet or phone */
+
+/* If the screen is 684 pixels wide or less, change font size to 1.5 times normal */
+
+@media (max-width: 684px) {
+  body {
+    font-size: 1.5rem;
+  }
+}
+
+/* If the screen is 382 pixels wide or less, you must be on a phone, so change the body to specify a font size even smaller - 1.3 times */
+
+@media (max-width: 382px) {
+  body {
+    font-size: 1.3rem;
+  }
+}

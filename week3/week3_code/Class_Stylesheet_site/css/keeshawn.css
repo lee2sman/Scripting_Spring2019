@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+h1{
+font-weight:bold;
+color:white;
+font-family:Bitter;
+padding: 5px;
+}
+h1:hover{
+  webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+h2{
+  font-family:Pacifico;
+}
+ body{
+    font-family: georgia
+    font-size: 1.4rem;
+    line-height: 1.65em;
+    max-width: 38em;
+    margin: auto;
+    text-align:left;
+    color: white;
+    padding: 10px;
+    background-image: linear-gradient(#403B4A, #E7E9BB);
+}
+a:link{
+  color:orange;
+}
+a:hover{
+  color:yellow;
+}
+
+@media (max-width: 684px) {
+  body {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 382px) {
+  body {
+    font-size: 1.3rem;
+  }
+}

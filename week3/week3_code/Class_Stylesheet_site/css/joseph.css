@@ -1,0 +1,95 @@
+@font-face {
+    font-family: heroheavy;
+    src: url(Hero.otf);
+}
+
+* {
+    font-family: sans-serif;
+    color:#D34E24;
+    font-size:1.05em;
+    text-shadow: -.4px 0 black, 0 .4px black, .4px 0 black, 0 -.4px black;
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+body {
+    background-image: url("Linen.jpg");
+    background-repeat: repeat;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-style:italic;
+    background-color: #38726C;
+    text-shadow: -.1px 0 black, 0 .1px black, .1px 0 black, 0 -.1px black;
+
+    /* Chrome, Safari, Opera */
+    -webkit-animation: rainbow 3s infinite;
+
+    /* Internet Explorer */
+    -ms-animation: rainbow 3s infinite;
+
+    /* Standar Syntax */
+    animation: rainbow 17s infinite;
+
+}
+p, li{
+    margin-left:10%;
+    margin-right:10%;
+    border-left:.2em #38726C solid;
+    border-right:.2em #38726C solid;
+}
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow {
+    0% {
+        color: orange;
+    }
+
+    10% {
+        color: purple;
+    }
+
+    20% {
+        color: red;
+    }
+
+    30% {
+        color: CadetBlue;
+    }
+
+    40% {
+        color: yellow;
+    }
+
+    50% {
+        color: coral;
+    }
+
+    60% {
+        color: green;
+    }
+
+    70% {
+        color: cyan
+    }
+
+    80% {
+        color: DeepPink;
+    }
+
+    90% {
+        color: DodgerBlue;
+    }
+
+    100% {
+        color: orange;
+    }
+}

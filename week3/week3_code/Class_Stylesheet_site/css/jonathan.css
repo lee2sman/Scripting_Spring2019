@@ -1,0 +1,63 @@
+body {
+  width: auto;
+  margin: 80px;
+  text-align:center;
+  font-family:impact;
+  word-wrap: break-word;
+  background-image: url("images/milky_way.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  list-style-position: inside;
+  background: linear-gradient(rgba(0, 0, 0, 0.0005), rgba(0, 0, 0, 0.0005)), url("images/milky_way.jpg");
+  background-attachment: fixed;
+}
+a:link {
+  color: rgb(227, 188, 149);
+  text-decoration: underline;
+}
+a:visited {
+  color: rgb(184, 96, 9);
+  text-decoration: underline;
+}
+a:hover {
+  color: rgb(183, 219, 153);
+  text-decoration: underline;
+}
+h1,h2,h3,h4,h5,h5 {
+  text-decoration:
+  underline;
+  text-transform: uppercase;
+  color:rgba(255,255,255,0.75);
+  font-size: 5vw
+}
+p {
+  font-family: courier;
+  font-weight: bold;
+  font-size:2vw;
+  color:rgba(256,256,256,0.85);
+border-style: ridge;
+border-collapse: collapse;
+border-width: 20px;
+border-radius: 10px;
+padding-top: 80px;
+padding-bottom: 80px;
+padding-left: 20px;
+padding-right: 20px;
+}
+li {
+  list-style-type: upper-roman;
+  font-family: courier;
+  font-weight: bold;
+  font-size:2vw;
+  color:rgba(255,255,255,0.85);
+border-style: ridge;
+border-width: 20px;
+border-collapse: collapse;
+border-radius: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+#scripting-for-the-web {
+  font-size: 10vw;
