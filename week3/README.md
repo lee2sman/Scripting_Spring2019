@@ -108,7 +108,7 @@ Remember that if we have an array with 5 entries, we will have an index 0, 1, 2,
 
 # jQuery
 
-- see slides
+- see [slides](https://github.com/lee2sman/Scripting_Spring2019/blob/master/slides/jquery.pdf)
 
 ### What's it for?
 
