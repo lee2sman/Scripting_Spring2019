@@ -240,6 +240,6 @@ $(window).ready(function() {
 ## jQuery practice
 
 - Practice your jQuery.
-  - refine your They Live project
-  - add to it by using a setInterval function call to trigger something to happen
+  - refine your They Live project, if needed
+  - if there were any mistakes, fix your class stylesheet. Make sure to add calls/references to external assets to your stylesheet (fonts, images), NOT in your own HTML page. For an example, see Emory's stylesheet on Moodle
 - Attend Processing Community Day NYC
