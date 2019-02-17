@@ -14,7 +14,6 @@
   - a Git workflow
   - working with GitHub as a remote repository
   - Publishing a free website with GitHub pages
--
 
 ---
 
@@ -109,20 +108,26 @@ git config --global user.email "your_email@example.com"
 
 [Learn Git](https://try.github.io/)
 
-
 # Homework
+
+## GitHub practice
+Learn and practice working with GitHub! Each time you study it, it will become easier.
+
+- Watch [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&t=2s) with The Coding Train
+- Review this [step-by-step guide to GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop)
+- practice making a new GitHub repository
+	- add some text file(s) to it
+	- make changes
+	- Commit the changes
+	- Publish (push) to a connected repository on GitHub 
+	- **LINK ME TO THIS GITHUB REPOSITORY**
+
+## Response to What Screens Want
 - Read [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
-It's a long, good read.
- At the end Chimero writes
+At the end Chimero writes
 
 > Let me leave you with this: the point of my writing was to ask what screens want. I think that’s a great question, but it is a secondary concern. What screens want needs to match up with what we want.
 
   - Write a 1/2 page response
   - What do you want to build?
 
-
-
-# Assignment: interactive lookbook, skate video, art collective,
-- Design an interactive webpage for a music video, interactive lookbook, art collective, skate video, art collective,
-- Practice adding, committing and then pushing to GitHub.
-- Make your github repo a website via GitHub Pages.
