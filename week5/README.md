@@ -84,38 +84,9 @@ In this back-to-basics section, this tutorial goes from the foundations: how doe
 
 [Code for Final version](https://github.com/lee2sman/Scripting_Spring2019/tree/master/week5/night_day) of tutorial 1.
 
-## Important: Typos in the web tutorial
+### Important: Typos in the tutorial 1
 
-There are a number of tutorials in the tutorial that make it not work if you copy and paste while going through it without debugging. I've documented these typos in a GitHub issue [here](https://github.com/googlecreativelab/coder-projects/issues/7). It may be easier to see the errors there.
-
-In step 6 of the tutorial, there is a typo in the last listed code block. Each time you open a bracket or parenthesis in code, you must properly close it.
-In this code block, there is a function that is triggered when you click a button. This function is opened, but not closed with a curly bracket. It is missing from the beginning of the line following where we add the 'black' class to the body.
-
-Here is what the last block of code in step 6 should look like.
-
-```
-$(document).ready( function() {
-    $('button').click( function() {
-        $('body').addClass('black');
-    });  //NOTE: Google Creative Lab code was missing } at beginning of this line!
-});
-```
-
-In Step 8 there is a typo in the ```#orb``` updated css. They assign the color blue to the orb's background-color property. When stating a web color by its webcolor name, it cannot be prefixed with a ```#```. It won't work.
-
-The line should just say:
-
-```
-   background-color: blue;
-```
-
-In Step 8 the ```#sky``` width needs to be set to ```100vw``` and height to ```100vh```. vw = viewidth. vh = viewheight. This sets the page to be exactly the width and height of the screen. For more info on viewwidth units, read [here](https://snook.ca/archives/html_and_css/vm-vh-units).
-
-In Step 11, the last line of the final codeblock is missing the close. The final line should be
-
-```
-});
-```
+If you try to go through tutorial 1 and code along, the project doesn't work perfectly because there are some typos in their code! I've documented these typos in a GitHub issue [here](https://github.com/googlecreativelab/coder-projects/issues/7).
 
 ## Project Tutorial 2: Javascript clock
 
@@ -134,7 +105,6 @@ When you learn CS at Purchase, your first language is often Processing, or now p
 Running your main code in a loop is a common need for most programmers. Javascript has a built in function call, ```setInterval(functionNameToCall, millisecondsToWait)``` that you can use to trigger a function to run every *x* number of milliseconds.
 
 In the tutorial, they add this line of code to the program.
-
 
 ```
 setInterval(displayTime, 1000);
