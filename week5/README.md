@@ -88,7 +88,7 @@ In this back-to-basics section, this tutorial goes from the foundations: how doe
 
 In this section, we are also working with the DOM but this time without the jQuery library.
 
-- Follow this [tutorial](https://googlecreativelab.github.io/coder-projects/projects/digital_clock/) to build a Digital Clock with jQuery
+- Follow this [tutorial](https://googlecreativelab.github.io/coder-projects/projects/digital_clock/) to build a Digital Clock
 - In Step 4 you'll see a block of code:
 
 ```
