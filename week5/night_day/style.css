@@ -61,23 +61,6 @@
     margin: 20px;
 }
 
-#moonspot2 {
-    height: 40px;
-    width: 40px;
-    border-radius: 100%;
-    float:right;
-    margin: 20px;
-}
-
-#moonspot3 {
-    left: 20;
-    height: 20px;
-    width: 30px;
-    border-radius: 100%;
-    float:right;
-    margin: 20px;
-}
-
 .visible {
     background-color: #eaeff2;
 }
