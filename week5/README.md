@@ -5,11 +5,10 @@ Because of the snow storm, I want to cover some simple things, and because we lo
 ### In these notes
 
 1. Case Study - Anymade Studio
- - how site architecture works with design
+  - how site architecture works with design
 2. Tutorial - jQuery and a simple site
-3. Tutorial - clock
- - the pure Javascript way of doing things instead of using jQuery
- - using setInterval to trigger a function to occur every specified number of milliseconds
+3. Tutorial - Javascript clock
+  - using setInterval to trigger a function to occur every specified number of milliseconds
 4. Assignment - build on tutorial and build a better clock!
 
 #### SNOW SECTION - not COVERED - the GitHub tutorials in this section will be covered next week!
@@ -83,7 +82,7 @@ In this back-to-basics section, this tutorial goes from the foundations: how doe
 
 ### UPDATED CODE FOR TUTORIAL 1
 
-[Code for Final version](https://github.com/lee2sman/Scripting_Spring2019/tree/master/week5/night_day) of tutorial 1
+[Code for Final version](https://github.com/lee2sman/Scripting_Spring2019/tree/master/week5/night_day) of tutorial 1.
 
 ## Important: Typos in the web tutorial
 
@@ -118,44 +117,15 @@ In Step 11, the last line of the final codeblock is missing the close. The final
 });
 ```
 
-## Project Tutorial 2: Javascript approach
+## Project Tutorial 2: Javascript clock
 
-### Bonus: creating a timer that will trigger events
-
-In this section, we are also working with the DOM but this time without the jQuery library.
+### FINAL FULL CODE
 
 - Follow this [tutorial](https://googlecreativelab.github.io/coder-projects/projects/digital_clock/) to build a Digital Clock
-- In Step 4 you'll see a block of code:
 
-```
-//plain Javascript version
-var clockDiv = document.getElementById('clock');
-```
+[Final code here](https://github.com/lee2sman/Scripting_Spring2019/tree/master/week5/digital_clock/)
 
-This is a pure Javascript way of grabbing a HTML element to use later. If we don't use a Javascript library like jQuery we call that *plain vanilla* Javascript. If you wanted to do this exact same thing in jQuery instead, it would look like this:
-
-```
-//jQuery version
-var clockDiv = $('#clock');
-```
-
-Later in the code in Step 4 of the tutorial, they set that specific element equal to something:
-
-```
-//plain Javascript version
-clockDiv.innerText = hours + ":" + minutes + ":" + seconds;
-```
-
-FYI, here's how to do that in jQuery instead:
-
-```
-//equivalent jQuery version
-clockDiv.text(hours+":"+minutes+":"+seconds);
-```
-
-There are pure Javascript versions of most other jQuery as well. If you are looking for tutorials or tips for certain web scripting questions online, you may see either jQuery or pure Javascript code so it's important you understand both ways to do things. Going forward, when working on your own projects, you may choose to use either regular (vanilla) Javascript or jQuery. I find it a tad simpler to write in jQuery but there is a recent trend toward writing in plain vanilla Javascript.
-
-#### Setting a timer to do something at a set interval, using setInterval
+#### Setting a timer to do something at a set interval
 
 In Step 7 of the tutorial, they demonstrate the use of setInterval.
 
