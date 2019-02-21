@@ -135,7 +135,7 @@ In the tutorial, they add this line of code to the program.
 setInterval(displayTime, 1000);
 ```
 
-This line uses setInterval. Every 1000 milliseconds the displayTime() function will run.
+This line uses setInterval. Every 1 second (aka 1000 milliseconds) the *displayTime()* function will run.
 
 ## Assignment - Build a Better Clock
 
