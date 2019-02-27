@@ -1,0 +1,27 @@
+*{
+    overflow-x:hidden;
+}
+
+body {
+    background-color: #80d4ea;
+}
+
+#clock {
+    font-family: courier, monospace;
+    color: white;
+    font-size: 100px;
+    position: fixed;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    width:100%;
+    text-align:center;
+}
+
+
+a {
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+}
+img{
+    width:100%;
+}

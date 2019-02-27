@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 60px;
+  background-color:#343bf9;
+  font-family: 'Roboto', sans-serif;
+  color: #f78811;
+  border: 1px dotted white;
+  box-shadow: 10px 10px 10px 5px orange;
+  border-radius: 5px;
+}
+p {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 60px;
+  background-color:#343bf9;
+  font-family: 'Roboto', sans-serif;
+  color: #f78811;
+  border: 1px dotted white;
+  box-shadow: 10px 10px 10px orange;
+  border-radius: 5px;
+}
+body {
+    background-image: url("graduation.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+
+    max-width:600px;
+
+    margin:auto;
+}
+.flash {
+  
+    -webkit-animation: flash linear 1s infinite;
+    animation: flash linear 1s infinite;
+}
+@-webkit-keyframes flash {
+    0% { opacity: 2; } 
+    50% { opacity: .1; } 
+    100% { opacity: 2; }
+}
+@keyframes flash {
+    0% { opacity: 2; } 
+    50% { opacity: .1; } 
+    100% { opacity: 2; }
+} 

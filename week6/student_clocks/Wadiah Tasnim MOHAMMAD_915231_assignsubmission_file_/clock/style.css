@@ -1,0 +1,46 @@
+body {
+  background: url('assets/background.jpg') no-repeat center center fixed;
+  background-blend-mode: multiply;
+  background-size: cover;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+}
+
+.night {
+  background-color: rgba(30, 32, 104, 0.8);
+}
+
+.day {
+  background-color: rgba(255, 183, 68, 0.2);
+}
+
+#clock {
+    height: 100px;
+    width: 800px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+
+.video-holder {
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    border: 0;
+
+    -webkit-box-shadow: 0px 0px 15px 8px #111;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    0px 0px 15px 8px #111;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         0px 0px 15px 8px #111;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.video-holder iframe {
+    /* top: 0; left: 0;
+    height: 100%; width: 100%;
+    position: absolute; */
+}

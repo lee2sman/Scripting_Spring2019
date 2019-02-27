@@ -1,0 +1,66 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+#clockny {
+    background-color: #80d4ea;
+    height: 25vh;
+    width: 100vw;
+    margin: 50px;
+    padding: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 7.5vw;
+}
+#clockla {
+  background-color: #ffca38;
+    height: 25vh;
+    width: 100vw;
+    margin: 50px;
+    padding: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 7.5vw;
+}
+#clocktelaviv {
+    background-color: #b3ffc3;
+    height: 25vh;
+    width: 100vw;
+    margin: 50px;
+    padding: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 7.5vw;
+}
+#clockrio {
+    background-color: #c2b3ff;
+    height: 25vh;
+    width: 100vw;
+    margin: 50px;
+    padding: 70px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 7.5vw;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex-container > div {
+  color: white;
+  width: 100vw;
+  margin:10vh;
+  padding: 25px;
+  justify-content: center;
+  align-items: center;
+  line-height: 100px;
+  font-size: 7.5vw;
+  background-size: 100vw;
+}
