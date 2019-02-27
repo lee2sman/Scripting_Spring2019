@@ -1,6 +1,6 @@
-Vlad
-Emmie
-Ana
-Wadiah
-Emory
-Jonathan
+- Vlad
+- Emmie
+- Ana
+- Wadiah
+- Emory
+- Jonathan
