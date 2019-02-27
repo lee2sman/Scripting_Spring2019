@@ -1,9 +1,9 @@
 # Week 6
 
 - questions
-- review Anymade Studio
+- Design / architecture - Anymade
 - NightDay Tutorial
-- 
+- clock project 
 - Git
 - GitHub
 - GitHub Pages
@@ -37,6 +37,10 @@ Night Day Tutorial
 # In-class Jam
 
 Turn class CSS stylesheets / class index.html page into a GitHub page site. 
+
+# Glitch
+
+glitch.com tutorial
 
 # Homework
 
