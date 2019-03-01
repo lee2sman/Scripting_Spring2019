@@ -1,6 +1,18 @@
-- Vlad
-- Emmie
+# Students
+
 - Ana
-- Wadiah
+- Anthony
+- Christian
+- Danylo
+- Emmie
 - Emory
-- Jonathan
+- Erinn
+- Jon
+- Joseph
+- Katherine
+- Keeshawn
+- Mafe
+- Victoria
+- Vlad
+- Wadiah
+- Zach
