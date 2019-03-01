@@ -3,7 +3,7 @@
 - Ana
 - Anthony
 - Christian
-- Danylo
+- [Danylo] (https://danylokorotin.github.io/scripting_for_the_web/)
 - Emmie
 - Emory
 - Erinn
