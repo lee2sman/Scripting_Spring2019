@@ -12,7 +12,7 @@
 - Katherine
 - Keeshawn
 - Mafe
-- Victoria
+- Victoria https://github.com/vkellyy/classAssignments
 - Vlad
 - Wadiah
 - Zach
