@@ -15,4 +15,4 @@
 - Victoria
 - Vlad
 - Wadiah
-- [Zach] (https://github.com/ZachGemo/ScriptingForTheWeb.git)
+- [Zach](https://github.com/ZachGemo/ScriptingForTheWeb.git)
