@@ -5,7 +5,7 @@
 - Christian
 - Danylo
 - Emmie
-- Emory
+- [Emory](https://github.com/oceanhymn/EmoryClassAssignments)
 - Erinn
 - Jon
 - Joseph
