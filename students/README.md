@@ -14,5 +14,5 @@
 - Mafe
 - Victoria [Victoria Kelly](https://github.com/vkellyy/classAssignments)
 - Vlad
-- Wadiah
+- [Wadiah](https://github.com/wadiah/ScriptingForTheWeb2019)
 - [Zach](https://github.com/ZachGemo/ScriptingForTheWeb.git)
