@@ -102,5 +102,5 @@ NPM package manager
 # Homework
 
 - A very short [introduction](https://glitch.com/edit/#!/first-app-node?path=README.md:1:0) to Node
-- Speculative Everything - Chapter 9
+- Speculative Everything - Chapter 9 - Uploaded to Moodle
 - Meet next week at Fort Awesome!
