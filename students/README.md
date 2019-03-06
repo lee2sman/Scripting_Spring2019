@@ -6,7 +6,7 @@
 - Danylo
 - Emmie
 - Emory
-- Erinn
+- [Erinn](https://erinnmckenna.github.io/scripting_class_projects/)
 - Jon
 - Joseph
 - Katherine
