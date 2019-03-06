@@ -8,7 +8,7 @@
 - [Emory](https://github.com/oceanhymn/EmoryClassAssignments)
 - [Erinn](https://erinnmckenna.github.io/scripting_class_projects/)
 - [Jon](https://github.com/jonsterncharles/scriptingfortheweb.git)
-- Joseph
+- [Joseph](https://github.com/Shoneys/Scripting-For-the-Web-2019)
 - [Katherine](https://github.com/klousell/SFTW)
 - Keeshawn
 - Mafe
