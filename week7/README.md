@@ -72,11 +72,6 @@ Panelists Include:
 * To install a package you'll use ```npm install <module_name> --save```
 * This package will be installed and added in the ```package.json``` file for your program
 
-# Advanced API wrangling - OAuth
-
-* Some APIs require a more robust form of authentication known as OAuth
-* To use OAuth you need to use Node to perform authentication
-
 # Express
 
 * Express is a node package
@@ -104,28 +99,8 @@ Runtime environment, library
 Installing node, working with a server, working locally
 NPM package manager
 
-# Resources
-
-* A very short [introduction](https://glitch.com/edit/#!/first-app-node?path=README.md:1:0) to Node
-* [Intro to Node and p5](https://creative-coding.decontextualize.com/node/) from Allison Parrish
-
-# Vizualizing Data With APIs
-
-* [Best in Show: The Ultimate Data Dog](https://informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/)
-* [Drake Weather](https://vimeo.com/84629790)
-* [White Collar Crimes Risk Zones](https://whitecollar.thenewinquiry.com/#dr5rukp)
-* [A Day in the life of Americans](http://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/)
-* [Listen To Wikipedia](http://listen.hatnote.com/)
-
-## Maps
-* [Every Active Satellite Orbiting Earth](https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/)
-* [World Population Density](http://luminocity3d.org/WorldPopDen/#3/24.37/-23.73)
-* [Instagram Food Capitals](https://cewe-photoworld.com/instagram-food-capitals/)
-* [Day in the life of CitiBike](http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/)
-
-# Resources
-* [Impressive Data Visualizations](https://www.maptive.com/17-impressive-data-visualization-examples-need-see/)
-
 # Homework
+
+- A very short [introduction](https://glitch.com/edit/#!/first-app-node?path=README.md:1:0) to Node
 - Speculative Everything - Chapter 9
 - Meet next week at Fort Awesome!
