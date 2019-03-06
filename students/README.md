@@ -9,7 +9,7 @@
 - Erinn
 - [Jon](https://github.com/jonsterncharles/scriptingfortheweb.git)
 - Joseph
-- Katherine
+- [Katherine](https://github.com/klousell/SFTW)
 - Keeshawn
 - Mafe
 - Victoria [Victoria Kelly](https://github.com/vkellyy/classAssignments)
