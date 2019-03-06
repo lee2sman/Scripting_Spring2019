@@ -7,7 +7,7 @@
 - Emmie
 - Emory
 - Erinn
-- Jon
+- [Jon](https://github.com/jonsterncharles/scriptingfortheweb.git)
 - Joseph
 - Katherine
 - Keeshawn
