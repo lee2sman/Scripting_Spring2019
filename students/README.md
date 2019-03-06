@@ -5,7 +5,7 @@
 - Christian
 - [Danylo](https://danylokorotin.github.io/scripting_for_the_web/)
 - Emmie
-- Emory
+- [Emory](https://github.com/oceanhymn/EmoryClassAssignments)
 - Erinn
 - [Jon](https://github.com/jonsterncharles/scriptingfortheweb.git)
 - Joseph
