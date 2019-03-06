@@ -2,6 +2,28 @@
 
 ## Next week's class meets at Fort Awesome RAX 0137
 
+Collab projects with Graphic Design
+
+## March 7 - Technology and Interactive Media Careers
+
+Time
+5:00pm  — 7:00pm
+Location
+Student Services Building, Red Room
+
+Learn about the exciting and innovative evolving field of contemporary technology and new media.  Network with people in the field and explore career possibilities.  Appetizers and refreshments will be served.
+
+Co-sponsored by the School of Natural and Social Sciences, the School of Film and Media Studies, the Career Development Center and Alumni Engagement.
+
+Panelists Include:
+
+    Yu-Fan (Linda) Chang: Blue Sky Studios Lighting TD
+    Genevieve Hoffman: Data Visualization Engineer at TOPOS
+    Cassie Tarakajian: Engineer at Cycling ’74, Lead Developer at Processing Foundation
+    Campbell Watson: IBM Research
+
+[Event info](https://www.purchase.edu/live/events/16030-technology-and-interactive-media-careers)
+
 # Review GitHub Pages
 - structure of the site
 
@@ -13,13 +35,16 @@
 
 # Frameworks
 
+- open source toolkits for developing with HTML, CSS, and JS quickly. Great for prototyping your ideas or build out an entire app.
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Tachyons](http://tachyons.io/)
+
 ## Website Jam
 
 - Spin up a website
 
 # Intro to Node
-
-# Week 5
 
 # Javascript Classes
 * A review of Javascript classes in ES6
@@ -29,11 +54,6 @@
 * Node is a version of Javascript that works outside the browser. It can run on the command line and on servers
 * Node is used for writing backend applications without a browser, though it can be used to manage the server in addition to the software you write for a browser
 * Download [Node](https://nodejs.org/en/)
-
-# Differences from P5JS
-* P5 has a preload, setup and draw loop
-* Node has no draw loop. Statements happen in order and then exit.
-* Node apps are run from the command line
 
 # Running Node in the command line
 * After installing, you can launch node by typing ```node```
@@ -108,3 +128,4 @@ NPM package manager
 
 # Homework
 - Speculative Everything - Chapter 9
+- Meet next week at Fort Awesome!
