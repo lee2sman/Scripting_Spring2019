@@ -12,7 +12,7 @@
 - [Katherine](https://github.com/klousell/SFTW)
 - Keeshawn
 - Mafe
-- Victoria [Victoria Kelly](https://github.com/vkellyy/classAssignments)
+- [Victoria](https://github.com/vkellyy/classAssignments)
 - Vlad
 - [Wadiah](https://github.com/wadiah/ScriptingForTheWeb2019)
 - [Zach](https://github.com/ZachGemo/ScriptingForTheWeb.git)
