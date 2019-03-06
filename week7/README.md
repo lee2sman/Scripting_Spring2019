@@ -104,3 +104,5 @@ NPM package manager
 - A very short [introduction](https://glitch.com/edit/#!/first-app-node?path=README.md:1:0) to Node
 - Speculative Everything - Chapter 9 - Uploaded to Moodle
 - Meet next week at Fort Awesome!
+- come to Thursday's [Technology and Interactive Media Careers event](](https://www.purchase.edu/live/events/16030-technology-and-interactive-media-careers)
+)
