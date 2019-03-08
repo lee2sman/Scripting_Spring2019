@@ -95,7 +95,7 @@ app.use(express.static('public'));
 
 This means http://localhost:4000 will host the project
 
-Runtime environment, library. 
+Runtime environment, library.
 Installing node, working with a server, working locally.  
 NPM package manager
 

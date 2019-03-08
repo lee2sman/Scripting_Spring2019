@@ -3,7 +3,7 @@
 - questions
 - Design / architecture - Anymade
 - NightDay Tutorial
-- clock project 
+- clock project
 - Git
 - GitHub
 - GitHub Pages
@@ -36,7 +36,7 @@ Night Day Tutorial
 
 # In-class Jam
 
-Turn class CSS stylesheets / class index.html page into a GitHub page site. 
+Turn class CSS stylesheets / class index.html page into a GitHub page site.
 
 # Glitch
 
@@ -61,7 +61,7 @@ bizzare-site/
 - main.js
 ```
 
-- After you make your repository, see if you can make a pull request for me to add a link to your repository. You would copy 
+- After you make your repository, see if you can make a pull request for me to add a link to your repository. You would copy
 
 1. Make a **fork** of my class repository.
 2. In your own fork (copy) of the repo, navigate to the [students page](https://github.com/lee2sman/Scripting_Spring2019/tree/master/students). <- Note I am linking to my copy, but you will want to edit your own version. You can either click the edit button OR download the entire repository to your computer, and then open the students/README.md page. Find your name, and add a link to your class repository. Note that these README.md files are written in Markdown so links look like this:
@@ -83,10 +83,10 @@ When you have done this you will add and commit this in your own forked copy. Tr
 - Read the w3school [NodeJS tutorial](https://www.w3schools.com/nodejs/default.asp) down to Events.
 - OPTIONAL: Interested in what's happening under the hood that lets you writ a desktop application in Node? Read [What Exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 - Watch the Coding Train videos [What is nodeJS](https://www.youtube.com/watch?v=RF5_MPSNAtU) and [What is NPM?](https://www.youtube.com/watch?v=s70-Vsud9Vk)
-- Test yourself. Come to class able to answer: 
- - what is Node.js? 
+- Test yourself. Come to class able to answer:
+ - what is Node.js?
  - How do you get it?
- - Why would you use it? 
+ - Why would you use it?
  - What is NPM?
 
 BEFORE CLASS: Windows users: Please install [Windows Subsystem For Linux](https://docs.microsoft.com/en-us/windows/wsl/about) OR [Cygwin](https://www.cygwin.com/). This will allow you to run Linux commands and browse the file system in your Terminal. Mac Users, you alreay have a Linux-like operating system and will be able to run Linux commands in the Terminal.
