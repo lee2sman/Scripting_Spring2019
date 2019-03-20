@@ -60,7 +60,7 @@ Your group should listen attentively to the project pitch of your classmates. St
 
 - A statement (on how your group is addressing “legacy” concerns. I.E. how are you designing for a surface to be both experienced today and in 10 years?
 
-# Consultation with Lee/Kelsey
+# Conceptual Consultation with Lee/Kelsey
 
 - What is the idea?
 - How did you decide on your project?
@@ -69,6 +69,15 @@ Your group should listen attentively to the project pitch of your classmates. St
 - What is your goal and timeline?
 - What are your immediate next steps?
 - What are your unknowns?
+
+## Coding Challenges with Takashi and Amanda
+
+Our wonderful TAs are Takashi and Amanda, both very knowledgeable with HTML, CSS and Javascript. They can provide assistance for technical challenges by guiding you to useful areas of research, best practices, and debugging ideas.
+
+- What is your group's plan for the architecture and hosting of the site?
+- How will you solve the technical challenges? What are you looking into?
+- How does your server work?
+- What technical questions do you have?
 
 # Homework
 
