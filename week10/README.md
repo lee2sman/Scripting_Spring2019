@@ -40,6 +40,10 @@ Accessibility as legacy. Alternative text description of images and links using 
 
 We will hold a workshop on these April 10, 2019.
 
+## Set the time capsule to open (be revealed) on
+
+# April 17, 2029 3PM EST
+
 # Homework:
 
 1. Following feedback on your groups second round of show-n-tell, collaboratively reflect on what was said/brought up. As a group, what do you agree with and how are you going to take action to address the feedback and concerns? Just as you did last week, the articulation, research, scope, and/or manifestation of your project should adapt. Again, this should be done in the spirit of discussion in a collaborative space where your process is recorded and can be shared.
