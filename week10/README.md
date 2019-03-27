@@ -10,16 +10,35 @@
 
 Problems:
 - link rot
-- techincal changes in Javascript, HTML and CSS (to a lesser degree)
-- autoplaying
-- security restrictions
-- Device changes (audio, watches, fonts, etc)
+- technical changes in Javascript, HTML and CSS (to a lesser degree)
+- browser support and legacy in the future (old Javascript, APIs, Java, etc)
+- autoplaying media (will no longer work)
+- security restrictions (camera)
+- Device changes (audio, watches, fonts, etc) - what will a screen look like in the future?
+- responsive design!
+- network architecture changes to protocols (result of loss of net neutrality?)
 
-Trigger loading new html page after date.
+### Time Capsule Reveal Method
+- How do you trigger loading new html page after date?
 
-Do not use CDNs. Host Javascript libraries and stylesheets, images and fonts locally.
+### Legacy/Documentation
 
-Include images of screenshots and video capture as documentation.
+Do not use CDNs. Self-host Javascript libraries and stylesheets, images and fonts locally.
+
+Include page text, images of screenshots and (possibly) video capture as documentation.
+
+Accessibility as legacy. Alternative text description of images and links using ```alt```. 
+
+```
+<img src="whatever.jpg" alt="A group of people sitting in front of a clock">
+```
+
+### Server options
+
+1. Linode server
+2. Raspberry Pi server self-hosted on campus
+
+We will hold a workshop on these April 10, 2019.
 
 # Homework:
 
