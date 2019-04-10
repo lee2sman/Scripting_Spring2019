@@ -22,7 +22,7 @@ This is a time for feedback from other studios. Lee & Kelsey will email formal f
 
 1. Over the next week, as a group you will take action on issues/opportunities addressed in the proof review today. Where were the missed opportunities or ones that were not seen? This includes both formal things (how it looks, craft of code), as well as conceptual things (how you articulate the work, and the underlying strategies of it)
 
-As you have done priorly, discuss what was said in a documented way, and take action on these facets. As a group, you will refine this "proof" to a final mechanical for submission next week. 
+ - As you have done priorly, discuss what was said in a documented way, and take action on these facets. As a group, you will refine this "proof" to a final mechanical for submission next week. 
 
 2. As a group, write a 1-2 paragraph statement on the work and upload it to a shared space (or comment it within the code...). Consider this a concise curatorial/artist statement on the works "aboutness", which includes a statement related to your studios ideas of accessibility/legacy within the work.
 
