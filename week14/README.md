@@ -28,8 +28,49 @@ Node.js comes with a builtin file system module to work with a computer's file s
 
 #### Reading a file
 
+We can read from a file saved on a server. This can be a text file or a json data file for example. We use the readfile module, part of ```fs```.
+
+```fs.readFile()```
+
+Example
+
+**student.json** file:
+
 ```
-fs.readFile()
+{
+  "name": "Brunnhilde",
+  "age": 81,
+  "department": "Math and Computer Science"
+}
+```
+
+**script.js** file
+
+```
+let fs = require('fs');
+
+fs.readFile('student.json', function(err,data) {  
+    if (err) throw err;
+    let student = JSON.parse(data);
+    console.log(student);
+});
+
+console.log('This is after the read call'); 
+```
+
+These two files are in the same directory. We can run our script with ```node script.js```
+
+Doing so will print out:
+
+```
+this is printed after the read call
+{ name: 'Brunnhilde',
+age: 81,
+department: 'Math and computer Science'}
+```
+
+Since Javascript is asynchronous, we start reading the student.json file, and we have a callback to run when finished. In the meantime, we print to the console in the last line of our script. Our readFile finally finishes and triggers the anonymous callback function that parses our student json data and prints it out. 
+
 
 #### Writing to a file
 
