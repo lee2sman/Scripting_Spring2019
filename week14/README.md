@@ -79,14 +79,16 @@ You can create a new text file in the file system with ```fs.writeFile()```. If 
 You can also add text to the end of a file using ```fs.appendFile()```. This has the advantage of not overwriting a file, and if it doesn't already exist, it will create the file first.
 
 ```
-var fs = require('fs');
+let fs = require('fs');
+let myText = "This text and the random number "+Math.random()*100+" will be added to the end of the file. ";
 
-fs.appendFile('newTextFile.txt', 'This text will be added at the end of the file.', function (err) {
+fs.appendFile('textFile.txt', myText, function (err) {
   if (err) throw err;
-  console.log('Saved to newTextFile.txt!');
+  console.log('Saved to textFile.txt!');
 });
 ```
 
+Again, we can save this as a script file and run it with ```node script.js``` or whatever we've named the file.
 
 ### Resources
 
