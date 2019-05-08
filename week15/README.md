@@ -3,7 +3,7 @@
 - checkin
 - semester review
 - what can I do after this class?
-- any list questions?
+- any last questions?
 - final project presentations
 
 # Final Project
