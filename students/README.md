@@ -1,7 +1,7 @@
 # Students
 
 - Ana
-- Anthony
+- Anthony https://github.com/AnT11521/ClassWorks
 - Christian
 - [Danylo](https://danylokorotin.github.io/scripting_for_the_web/)
 - [Emmie](https://github.com/EsmerAlva/ScriptingForTheWeb)
